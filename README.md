@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Professionally I'm working in the infrastructure space as a cloud architect, but my public Github is mostly for side projects.
+Welcome to my MySpace
 
 #### Cloud Package Manager
 
