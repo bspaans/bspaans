@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**bspaans/bspaans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professionally I'm working in the infrastructure space as a cloud architect, but my public Github is mostly for side projects.
 
-Here are some ideas to get you started:
+* Cloud Package Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[escape](https://github.com/ankyra/escape) - Build, test, release and deploy artefacts and their dependencies
+
+* Music projects
+
+From new to old:
+
+[bleep](https://github.com/bspaans/bleep) - Synthesizer/sequencer and music library in Go
+[softsynth](https://github.com/bspaans/python-softsynth) - A synthesizer in Python
+[mingus-blakey](https://github.com/bspaans/mingus-blakey) - A drum machine built on top of Mingus
+[mingus-paganini](https://github.com/bspaans/mingus-paganini) - An arpeggiator built on top of Mingus
+[improviser](https://github.com/bspaans/improviser) - Musical content generation software in Python 
+[mingus](https://github.com/bspaans/python-mingus) - Music theory package for Python
+
+* Compilers
+
+[jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler written in Go
+[expression-compiler](https://github.com/bspaans/expression_compiler_x64) - Sample x64 expression compiler written in Haskell
+
+* Chess
+
+[chess_engine](https://github.com/bspaans/chess_engine) - A (very slow) chess engine written in Go. First attempt at writing one. 
+[chess-archive-collator](https://github.com/bspaans/chess-archive-collator) - Analyse PGN files
