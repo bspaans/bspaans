@@ -2,11 +2,11 @@
 
 Professionally I'm working in the infrastructure space as a cloud architect, but my public Github is mostly for side projects.
 
-* Cloud Package Manager
+#### Cloud Package Manager
 
 [escape](https://github.com/ankyra/escape) - Build, test, release and deploy artefacts and their dependencies
 
-* Music projects
+#### Music projects
 
 From new to old:
 
@@ -17,12 +17,12 @@ From new to old:
 [improviser](https://github.com/bspaans/improviser) - Musical content generation software in Python 
 [mingus](https://github.com/bspaans/python-mingus) - Music theory package for Python
 
-* Compilers
+#### Compilers
 
 [jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler written in Go
 [expression-compiler](https://github.com/bspaans/expression_compiler_x64) - Sample x64 expression compiler written in Haskell
 
-* Chess
+#### Chess
 
 [chess_engine](https://github.com/bspaans/chess_engine) - A (very slow) chess engine written in Go. First attempt at writing one. 
 [chess-archive-collator](https://github.com/bspaans/chess-archive-collator) - Analyse PGN files
