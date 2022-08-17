@@ -11,7 +11,7 @@ Welcome to my MySpace
 From new to old:
 
 * [bleep](https://github.com/bspaans/bleep) - Synthesizer/sequencer and music library in Go
-* [bloop](https://github.com/bspaans/bleep) - Synthesizer/sequencer and music library in C
+* [bloop](https://github.com/bspaans/bloop) - Synthesizer/sequencer and music library in C
 * [softsynth](https://github.com/bspaans/python-softsynth) - A synthesizer in Python
 * [mingus-blakey](https://github.com/bspaans/mingus-blakey) - A drum machine built on top of Mingus
 * [mingus-paganini](https://github.com/bspaans/mingus-paganini) - An arpeggiator built on top of Mingus
